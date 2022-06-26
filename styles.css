@@ -111,6 +111,15 @@ body{
     object-fit: contain;
 }
 
+.nav__home {
+    color: white;
+    position: absolute;
+    text-align: left;
+    width: 70%;
+    display: flex;
+    padding-top: 35px;
+}
+
 .nav {
     position: fixed;
     top: 0;
